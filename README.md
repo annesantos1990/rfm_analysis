@@ -33,21 +33,17 @@ A limpeza, tratamento dos dados e parte das análises dos dados foi feita pelo *
 Para mais detalhes da biblioteca e do tratamento do dados, basta clicar nesse link: [Clique aqui](https://github.com/annesantos1990/data-cleansing_RFM/)
 
 ## Métodos e Técnicas
-Para visualizar como foi obtido o risco relativo para diferentes grupos com base nas principais variáveis desse projeto, [Clique aqui](https://github.com/annesantos1990/methods_techniques_risk_relative)
-
-Nesse repositório, além da técnica utilizada para o cálculo do risco relativo, também encontrará:
-- A técnica utilizada para classificar os clientes com base no seu score de risco;
-- O modelo de regressão logística.
+Para visualizar como feita a classificação dos clientes com base na análise RFM (Recência, Frequência e Valor Monetário), [clique aqui](https://github.com/annesantos1990/methods_techniques_rfm/)
 
 ### Visualização dos dados - Looker Studio
-Parte dos gráficos que estão apresentados na seção de resultados foi feito no Looker. Para acessar o dashboard feito nessa ferramenta, clique no Link abaixo:
-[Clique aqui ou na imagem](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
+Os gráficos que estão apresentados na seção de resultados foi feito no Looker. Para acessar o dashboard feito nessa ferramenta, clique no Link abaixo:
+[Clique aqui](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
 
-[![looker](https://github.com/annesantos1990/relative_risk_project/assets/166059836/6d4b737d-6ddd-458b-a327-7a4663253273)](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
+<img width="252" height="250" alt="dashboard" src="https://github.com/user-attachments/assets/53c56106-b387-4e77-abe2-88a45cb7cb81">
+<img width="252" height="250" alt="dashboard2" src="https://github.com/user-attachments/assets/0acbbfc5-8498-426a-af5a-627769b8a42a">
+<img width="252" height="250" alt="dashboard3" src="https://github.com/user-attachments/assets/15f9638e-c4fe-4769-8e57-8c3ffb06236b">
+<img width="252" height="250" alt="dashboard4" src="https://github.com/user-attachments/assets/d26845e1-8290-4591-8204-bc911b514dfc">
 
-
-### Análise dos dados - Google Colab
-Várias análises e visualizações desse projeto foi feito no Google Colab. Para visulizar os códigos utilizados para alguns dos resultados que podem ser vista na seção de resultados, acesse o Notebook: [Clique aqui](https://github.com/annesantos1990/relative_risk_project/blob/main/Projeto_Risco_Relativo_Eslaine.ipynb)
 
 ## Apresentação do projeto
 Para ver os slides com a apresentação do projeto [clique aqui.](https://github.com/annesantos1990/relative_risk_project/blob/main/Risco%20Relativo_2.pdf)
