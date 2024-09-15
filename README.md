@@ -30,7 +30,7 @@ O objetivo desse projeto é fazer a análise é aprofundar a compreensão sobre 
 ## Biblioteca e Tratamento do Dados
 
 A limpeza, tratamento dos dados e parte das análises dos dados foi feita pelo *Big Query*.
-Para mais detalhes da biblioteca e do tratamento do dados, basta clicar nesse link: [Clique aqui]()
+Para mais detalhes da biblioteca e do tratamento do dados, basta clicar nesse link: [Clique aqui](https://github.com/annesantos1990/data-cleansing_RFM/)
 
 ## Métodos e Técnicas
 Para visualizar como foi obtido o risco relativo para diferentes grupos com base nas principais variáveis desse projeto, [Clique aqui](https://github.com/annesantos1990/methods_techniques_risk_relative)
@@ -77,7 +77,10 @@ Mas aqui, vou fazer um resumo dos principais resultados encontrados:
 
 ## Limitações
 
-## Links de Interesse
+## Links de Interesse:
+
+- Repositório com a limpeza dos dados:
+ - https://github.com/annesantos1990/data-cleansing_RFM/
 
 
 ## LinkedIn
