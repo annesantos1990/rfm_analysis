@@ -25,7 +25,6 @@ O objetivo desse projeto é fazer a análise é aprofundar a compreensão sobre 
 ## Ferramentas
 - Gerenciamento dos dados: BigQuery (SQL)
 - Visualização de dados: Looker Studio
-- Implementação do Modelo: Google Colab (Python)
 - Ficha técnica: Notion, GitHub
 
 
