@@ -53,8 +53,6 @@ Para ver os slides com a apresentação do projeto [clique aqui.]()
 ## Resultados e Discussão
 A análise detalhada desse projeto, explicando o relatório desenvolvido no Looker studio e dos principais resultados obtidos, acesse minha página pública do Notion: [Clique aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-396b8a5dbe0f489ab1945b1d43e4971e?pvs=4)
 
-Período de Coleta: 30/07/2020 - 29/06/2022
-
 **Período de Coleta:** 30/07/2020 - 29/06/2022
 
 As análises realizadas no Looker Studio proporcionaram uma visão abrangente do comportamento dos clientes e suas segmentações. A seguir, estão as principais conclusões divididas por área de foco:
@@ -97,7 +95,7 @@ A segmentação RFM destacou dois grupos principais que merecem atenção:
 - **Campeões:** Continuar a recompensá-los e mantê-los engajados, pois eles são os embaixadores da marca.
 
 ## Conclusões
-
+O projeto revelou que a maioria dos clientes são da Geração X, Classe D e casados, com uma alta frequência de compra de vinho. A análise RFM mostrou que os segmentos predominantes são Clientes Fiéis e Hibernando, sugerindo foco em estratégias de retenção e engajamento. A segmentação permite direcionar campanhas personalizadas para diferentes perfis, maximizando o impacto das ações de marketing. As limitações incluem a dependência de dados gerais e a necessidade de filtragem adicional para insights mais específicos.
 
 ## Recomendações
 ### **Focar no Segmento de Clientes Fiéis**
