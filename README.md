@@ -1,6 +1,8 @@
 <h1 align="center"> </a> RFM Analysis   </h1>
 
-**segmentação de clientes usando a análise RFM**
+**Segmentação de clientes de uma loja usando a análise RFM**
+
+![RFMAnalysisวิเคราะห์และแบ่งกลุ่มลูกค้าสู่ผลลัพธ์อันน่าทึ่ง](https://github.com/user-attachments/assets/8524d1c5-55b1-4ec6-ae79-0c5d22cd396b)
 
 
 ##
