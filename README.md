@@ -37,47 +37,112 @@ Para visualizar como feita a classificação dos clientes com base na análise R
 
 ### Visualização dos dados - Looker Studio
 Os gráficos que estão apresentados na seção de resultados foi feito no Looker. Para acessar o dashboard feito nessa ferramenta, clique no Link abaixo:
-[Clique aqui](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
+[Clique aqui](https://lookerstudio.google.com/reporting/b583cbb9-833b-46a2-a6da-4a1eec0413ec)
 
-<img width="252" height="250" alt="dashboard" src="https://github.com/user-attachments/assets/53c56106-b387-4e77-abe2-88a45cb7cb81">
-<img width="252" height="250" alt="dashboard2" src="https://github.com/user-attachments/assets/0acbbfc5-8498-426a-af5a-627769b8a42a">
-<img width="252" height="250" alt="dashboard3" src="https://github.com/user-attachments/assets/15f9638e-c4fe-4769-8e57-8c3ffb06236b">
-<img width="252" height="250" alt="dashboard4" src="https://github.com/user-attachments/assets/d26845e1-8290-4591-8204-bc911b514dfc">
+Para visualizar os resultados e obter uma explicação detalhada sobre as páginas do relatório no Looker, [clique aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-396b8a5dbe0f489ab1945b1d43e4971e?pvs=4)
+
+<img width="282" height="250" alt="dashboard" src="https://github.com/user-attachments/assets/654971bf-e39d-4eda-b363-2e48cbf21d24">
+<img width="282" height="250" alt="dashboard2" src="https://github.com/user-attachments/assets/0acbbfc5-8498-426a-af5a-627769b8a42a">
+<img width="282" height="250" alt="dashboard3" src="https://github.com/user-attachments/assets/15f9638e-c4fe-4769-8e57-8c3ffb06236b">
+<img width="282" height="250" alt="dashboard4" src="https://github.com/user-attachments/assets/d26845e1-8290-4591-8204-bc911b514dfc">
 
 
 ## Apresentação do projeto
-Para ver os slides com a apresentação do projeto [clique aqui.](https://github.com/annesantos1990/relative_risk_project/blob/main/Risco%20Relativo_2.pdf)
+Para ver os slides com a apresentação do projeto [clique aqui.]()
  
 ## Resultados e Discussão
-A análise detalhada desse projeto com os gráficos e discussões pode ser vista em nossa página pública do Notion: [Clique aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-2099a46cca4e4d98adf88ccde83260a1?pvs=4)
+A análise detalhada desse projeto, explicando o relatório desenvolvido no Looker studio e dos principais resultados obtidos, acesse minha página pública do Notion: [Clique aqui](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-396b8a5dbe0f489ab1945b1d43e4971e?pvs=4)
 
+Período de Coleta: 30/07/2020 - 29/06/2022
 
-Mas aqui, vou fazer um resumo dos principais resultados encontrados:
-### Informações Gerais
+**Período de Coleta:** 30/07/2020 - 29/06/2022
 
-- **Adimplência e Inadimplência**:
-    - Porcentagem de Adimplentes: 98,25%
-    - Porcentagem de Inadimplentes: 1,75%
-- **Perfil Socioeconômico Predominante**:
-    - Gênero: Masculino (60%)
-    - Faixa Etária: Geração X (44 a 59 anos) (38,33%)
-    - Salário: R$2.824,00 a R$5.648,00 (47,47%)
-    - Número de Dependentes: 1 dependente (60,55%)
-### Testando Hipóteses
-   Para o teste dessas hipóteses, cada uma das variáveis foram separadas em 4 grupos diferentes. Para verificar como foi feita a separação dos grupos e os principais grupos, acessar [esse repositório com os detalhes dos métodos e técnicas empregados](https://github.com/annesantos1990/methods_techniques_risk_relative/) ou se quer somente ver com mais detalhes esses resultados [acessar o Notion](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-2099a46cca4e4d98adf88ccde83260a1?pvs=4).
+As análises realizadas no Looker Studio proporcionaram uma visão abrangente do comportamento dos clientes e suas segmentações. A seguir, estão as principais conclusões divididas por área de foco:
 
+### 1. Perfil dos Clientes:
+
+- **Total de Clientes:** 2047
+- **Média Salarial:** R$ 52.303,70
+- **Idade Média:** 53,24 anos
+- **Resposta à Campanha:** Apenas 15,29% dos clientes responderam à campanha de marketing.
+
+**Principais Grupos:**
+
+- **Faixa Etária predominante:** Geração X (45-63 anos) representa 47% dos clientes e 43% do valor monetário gerado.
+- **Classe Social:** Embora a Classe D tenha mais clientes (52%), a Classe C gerou o maior valor monetário (57%), indicando o poder de compra superior da Classe C.
+- **Estado Civil:** Clientes casados predominam, tanto em quantidade (38%) quanto em valor monetário gerado (37%).
+- **Nível Educacional:** 50% dos clientes têm nível superior, representando 51% do valor monetário total.
+
+**Comportamento de Compra:**
+
+- **Local de Compra:** A maioria dos clientes (98%) compra em ambos os canais, loja física e site.
+
+### 2. Análise de Produtos:
+
+O **vinho** foi identificado como o produto mais adquirido em todas as categorias demográficas analisadas, destacando-se como o item de maior valor monetário.
+
+- **Geração X** e **Classe C** lideram em termos de consumo e geração de receita.
+
+### 3. Segmentação RFM:
+
+A segmentação RFM destacou dois grupos principais que merecem atenção:
+
+- **Clientes Fiéis:** 22,57% do total de clientes, sendo um segmento de alto valor com potencial para upselling e fidelização.
+- **Hibernando:** 20,76% dos clientes, que precisam de campanhas de reengajamento para evitar a perda.
+
+**Ações Sugeridas por Segmento:**
+
+- **Clientes Fiéis:** Incentivar o upselling e aumentar o engajamento com recompensas e programas de fidelidade.
+- **Hibernando:** Focar em reativação com ofertas e descontos exclusivos para reconquistar o interesse desses clientes.
+- **Campeões:** Continuar a recompensá-los e mantê-los engajados, pois eles são os embaixadores da marca.
 
 ## Conclusões
 
-## Recomendações
 
-## Limitações
+## Recomendações
+### **Focar no Segmento de Clientes Fiéis**
+
+- **Estratégia de Upselling**: Como os "Clientes Fiéis" representam 22,57% do total, seria interessante oferecer a eles produtos de maior valor ou combos exclusivos. Eles já têm um histórico de compra, então incentivá-los a gastar mais pode aumentar as receitas.
+- **Criação de Programas de Fidelidade**: Oferecer programas de pontos, descontos ou brindes para manter esses clientes engajados e recompensá-los pela lealdade.
+
+### **Reativar os Clientes Hibernando**
+
+- **Campanhas de Reativação**: Clientes "Hibernando" (20,76%) precisam de ofertas atrativas e personalizadas. Envie promoções específicas, como descontos ou frete grátis, para trazê-los de volta à loja.
+- **Reconstrução de Valor de Marca**: Mostre a esses clientes o valor que eles perderam desde a última compra, como novos produtos, melhorias no serviço ou inovações.
+
+### **Promoções Personalizadas para Segmentos**
+
+- **Campeões**: Recompense os "Campeões" com acesso antecipado a novos produtos ou descontos VIP. Isso reforça o vínculo e os transforma em embaixadores da marca.
+- **Clientes em Risco**: Para os clientes "Em Risco", ofereça promoções urgentes, como descontos limitados ou recomendações personalizadas, para incentivá-los a retornar antes que eles deixem a marca.
+- **Segmento "Não Posso Perdê-los"**: Foco em marketing direto com esses clientes, garantindo que eles saibam de novos produtos e tenham incentivos claros para continuar comprando.
+
+### **Campanhas Direcionadas com Base no Perfil Demográfico**
+
+- **Geração X e Classe C**: Focar em campanhas de marketing específicas para esses dois grupos, que têm maior poder de compra. Oferecer produtos premium, como vinhos ou itens gourmet, pode maximizar o valor monetário.
+
+**Personalização por Local de Compra**: Como a maioria dos clientes compra tanto na loja física quanto no site, crie campanhas integradas para oferecer uma experiência de compra fluida entre os dois canais, com promoções que incentivem o uso de ambos.
+
+### **Aumentar a Resposta às Campanhas**
+
+- **Campanhas mais Engajadoras**: Com apenas 15,29% de resposta às campanhas, é crucial revisar as estratégias de marketing. Para isso, as informações da segmentação para personalizar e criar mensagens mais direcionadas, com benefícios claros para cada grupo.
+- **Testes A/B de Campanhas**: Realizar experimentos com diferentes tipos de e-mails, mensagens e layouts de campanhas para entender quais formatos geram maior engajamento.
+
+### **Promoção do Produto Mais Popular – Vinho**
+
+- Dado que o vinho é o produto mais comprado em todas as categorias, é interessante considerar campanhas específicas focadas nesse item. Ofereça pacotes, combos e eventos especiais, como degustações ou descontos em compras de maior volume.
+
+### **Explorar Potencial dos Novos Clientes**
+
+- Criar uma boa experiência de boas-vindas para os novos clientes, educando-os sobre os produtos e serviços da loja, e oferecendo descontos para compras futuras, de modo a converter novos clientes em fiéis rapidamente.
+
+Com essas estratégias, a loja pode otimizar o relacionamento com seus clientes, aumentar o valor médio de compra e melhorar a retenção.
+
 
 ## Links de Interesse:
 
-- Repositório com a limpeza dos dados:
- - https://github.com/annesantos1990/data-cleansing_RFM/
-
+- Repositório com a limpeza dos dados: https://github.com/annesantos1990/data-cleansing_RFM/
+- Dashboard do Looker Studio: [Looker Studio](https://lookerstudio.google.com/reporting/b583cbb9-833b-46a2-a6da-4a1eec0413ec)   
+- Detalhes sobre o dashboard do Looker e resultados e discussões: [Notion](https://giddy-shamrock-550.notion.site/Resultados-e-Conclus-es-396b8a5dbe0f489ab1945b1d43e4971e?pvs=4)
 
 ## LinkedIn
 
